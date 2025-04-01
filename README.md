@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ### Required Packages
 
-```python
+```bash
 transformers==4.46.1
 tokenizers==0.20.0
 accelerate==1.0.1
@@ -51,6 +51,7 @@ peft==0.13.2
 jinja2==2.11.3
 fuzzywuzzy==0.18.0
 python-Levenshtein==0.25.1
+networkx==3.0
 ```
 
 ## Usage
